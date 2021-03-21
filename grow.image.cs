@@ -197,7 +197,6 @@ namespace growImage
                     list.Add(Array[x, y]);
                 }
             }
-
             return list;
         }
 
